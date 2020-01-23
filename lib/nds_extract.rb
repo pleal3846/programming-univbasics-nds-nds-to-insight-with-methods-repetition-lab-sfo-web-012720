@@ -25,7 +25,7 @@ def gross_for_director(d)
 end
 
 def list_of_directors(source)
-  list_of_directors
+pp st
   
   # Write this implementation
 end

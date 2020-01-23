@@ -25,10 +25,13 @@ def gross_for_director(d)
 end
 
 def list_of_directors(source)
+  pp list_of_directors
+  
   # Write this implementation
 end
 
 def total_gross(source)
+  
   # Write this implementation
   #
   # Should use methods:

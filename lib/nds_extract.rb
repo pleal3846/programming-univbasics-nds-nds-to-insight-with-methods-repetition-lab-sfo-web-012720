@@ -33,7 +33,7 @@ end
 def total_gross(source)
   i = directors_totals.length
   while i < list_of_directors
-  
+  return i
   # Write this implementation
   #
   # Should use methods:

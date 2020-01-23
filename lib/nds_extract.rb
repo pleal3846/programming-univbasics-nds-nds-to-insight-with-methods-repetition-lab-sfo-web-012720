@@ -31,6 +31,8 @@ pp source
 end
 
 def total_gross(source)
+  i = directors_totals.length
+  while i < list_of_directors
   
   # Write this implementation
   #
